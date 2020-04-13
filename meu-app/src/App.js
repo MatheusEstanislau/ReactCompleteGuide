@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Aula46 from "./Aulas/Aula46";
+import Aula47 from "./Aulas/Aula47";
 
 import "./App.css";
 
@@ -8,7 +8,7 @@ export default class App extends Component {
   render() {
     return (
       <>
-        <Aula46/>
+        <Aula47/>
       </>
     );
   }
